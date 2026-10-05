@@ -15,3 +15,7 @@ observability and docs. Current phase and status: docs/progress.md.
 - Record meaningful decisions in docs/decisions/ (context, options, choice, consequences).
 - Keep a README section listing what came from AWS and what I changed.
 - Don't add tools just for keywords. Never write resume bullets for unfinished work.
+- Before starting any task, read .local/project-brief.md and docs/progress.md.
+- For small files, let me write a first draft and review it. For larger files, explain each section.
+- At the end of each phase, ask me 3 interview-style questions, then write a short
+  handoff summary (what exists, decisions made, open issues, next step) into docs/progress.md.
